@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Kishmita (Apna College)git
+Author - Kishmita (Apna College)
